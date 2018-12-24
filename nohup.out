@@ -1,0 +1,29 @@
+/Users/yeet/.gem/ruby/2.3.0/gems/bundler-1.17.2/lib/bundler/runtime.rb:319:in `check_for_activated_spec!': You have already activated public_suffix 3.0.3, but your Gemfile requires public_suffix 2.0.5. Prepending `bundle exec` to your command may solve this. (Gem::LoadError)
+	from /Users/yeet/.gem/ruby/2.3.0/gems/bundler-1.17.2/lib/bundler/runtime.rb:31:in `block in setup'
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:202:in `each'
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:202:in `each'
+	from /Users/yeet/.gem/ruby/2.3.0/gems/bundler-1.17.2/lib/bundler/runtime.rb:26:in `map'
+	from /Users/yeet/.gem/ruby/2.3.0/gems/bundler-1.17.2/lib/bundler/runtime.rb:26:in `setup'
+	from /Users/yeet/.gem/ruby/2.3.0/gems/bundler-1.17.2/lib/bundler.rb:107:in `setup'
+	from /Users/yeet/.gem/ruby/2.3.0/gems/jekyll-3.8.5/lib/jekyll/plugin_manager.rb:50:in `require_from_bundler'
+	from /Users/yeet/.gem/ruby/2.3.0/gems/jekyll-3.8.5/exe/jekyll:11:in `<top (required)>'
+	from /usr/local/bin/jekyll:22:in `load'
+	from /usr/local/bin/jekyll:22:in `<main>'
+[33mConfiguration file: none[0m
+            Source: /Users/yeet/beaver
+       Destination: /Users/yeet/beaver/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 2.673 seconds.
+ Auto-regeneration: enabled for '/Users/yeet/beaver'
+    Server address: http://127.0.0.1:4000
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2018-12-24 14:35:48
+                    nohup.out
+                    ...done in 2.672258 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2018-12-24 14:36:31
+                    index.html
+                    nohup.out
+                    ...done in 2.945717 seconds.
+                    
